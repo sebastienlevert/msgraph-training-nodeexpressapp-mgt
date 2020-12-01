@@ -1,0 +1,31 @@
+body {
+  padding-top: 4.5rem;
+}
+
+.alert-pre {
+  word-wrap: break-word;
+  word-break: break-all;
+  white-space: pre-wrap;
+}
+
+mgt-login {
+  --color: rgba(255,255,255,.5);
+}
+
+.nav-docs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-get-started {
+  padding-top: 1em;
+}
+
+.nav-secured {
+  display: none;
+}
+
+mgt-tasks {
+  --tasks-background-color: transparent;
+}
